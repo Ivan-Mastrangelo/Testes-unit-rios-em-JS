@@ -14,11 +14,11 @@ Neste projeto tive que implementar ou funções para atender aos testes unitári
 
 Basta clonar o projeto:
 ```
-git@github.com:Ivan-Mastrangelo/Testes-unit-rios-em-JS.git
+git@github.com:Ivan-Mastrangelo/Testes-unitarios-em-JS.git
 ```
 Entrar no diretório criado:
 ```
-  cd Testes-unit-rios-em-JS
+  cd Testes-unitarios-em-JS
   ```
 Instalar as dependências do projeto:
 ```
